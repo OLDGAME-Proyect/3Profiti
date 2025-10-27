@@ -1,6 +1,6 @@
 >3Profti is a lightweight, reliable, and highly customizable screen recorder for Windows.
 
-#Advanced operation
+# Advanced operation
 ---
 Its operation is simple but practical 3Profiti uses the GDI api to obtain screenshots every so many frames specified by the user in the FPS "edit" 
 configuration section and automatically compressed as JPEG format in the .dat file you can use the dat extractor to extract the frames 
@@ -20,10 +20,10 @@ python extract_jpgs.py [videoName.dat] [outputfolder] [100"Number of frames to e
 ```
 python framecounter.py [videoName.dat]
 ```
-without the brackets"[]"
+#### without the brackets"[]"
 ---
 
-#Usage and settings
+# Usage and settings
 ---
 Using 3Profiti is quite simple, to start recording the screen just open the application and press the "Rec" button and 
 to end the video just press the "Stop" button. You can change the theme in the "Theme Dark" or "Theme Default" 
