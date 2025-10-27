@@ -25,26 +25,26 @@ python framecounter.py [videoName.dat]
 
 # Usage and settings
 ---
-Using 3Profiti is quite simple, to start recording the screen just open the application and press the "Rec" button and 
-to end the video just press the "Stop" button. You can change the theme in the "Theme Dark" or "Theme Default" 
-button located just above the edit of the file destination selection.
-(Settings)
+### Using 3Profiti is quite simple, to start recording the screen just open the application and press the "Rec" button and 
+### to end the video just press the "Stop" button. You can change the theme in the "Theme Dark" or "Theme Default" 
+### button located just above the edit of the file destination selection.
+## (Configs)
+### For more advanced settings just tap the "Config" button to open the settings window once there you have multiple options such as: 
 ---
-For more advanced settings just tap the "Config" button to open the settings window once there you have multiple options such as: 
-(Keep . dat File) Which allows you to decide whether or not you want to keep the . dat file that contains all the compressed frames in jpg format or if you want 
-to delete it when you finish assembling your MP4 file
+### (Keep . dat File) Which allows you to decide whether or not you want to keep the . dat file that contains all the compressed frames in jpg format or if you want 
+### to delete it when you finish assembling your MP4 file
 ---
-(Assemble MP4vid) This function allows you to decide whether or not you want to generate the final "Video" MP4 file or not 
+### (Assemble MP4vid) This function allows you to decide whether or not you want to generate the final "Video" MP4 file or not 
 ---
-(Time Lapse Mode) With this function you can record faster and smoother videos designed for timelapse starts recording without a specific
-frame limit or a completely linear or constant timeline perfect for modest PCs with not much space resources (Show cursor) Do you want the 
-mouse to be recorded in your video yes or no
+### (Time Lapse Mode) With this function you can record faster and smoother videos designed for timelapse starts recording without a specific
+### frame limit or a completely linear or constant timeline perfect for modest PCs with not much space resources (Show cursor) Do you want the 
+### mouse to be recorded in your video yes or no
 ---
-(FPS) Edit specifies the amount of FPS you want to record
+### (FPS) Edit specifies the amount of FPS you want to record
 ---
-(Width) the width of the outgoing video / "Resolution"
+### (Width) the width of the outgoing video / "Resolution"
 ---
-(Height) The height of the outgoing video / "Resolution"
+### (Height) The height of the outgoing video / "Resolution"
 ---
 >*Warning* (When recording in timelapse mode, although fluid, there is a significantly lower number of recorded frames depending on your GPU.
 > By increasing the amount of FPS Profiti uses much more GPU so it is more likely to reach even less.
